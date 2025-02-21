@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "React Native App",
-    "slug": "react native app",
+    "name": "MedicalApp",
+    "slug": "MedicalApp", 
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "react-app",
+    "scheme": "MedicalApp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
